@@ -7,6 +7,8 @@
 - ARes (1º Semestre): [Scrum Platform](https://github.com/Sandro-Pimentel/AReS)
 - Lotus (2º Semestre): [Chatbot](https://github.com/VituuSaborito/Lotus)
 
+Status: Inativo.
+
 
 
 
